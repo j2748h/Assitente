@@ -1,0 +1,6 @@
+{
+  "name": "Yuki - Ajudante de E-Books",
+  "description": "Uma ajudante anime super carismática que te ajuda a explorar o que há dentro de qualquer e-book e avalia de forma 100% sincera se ele é ideal para você ou não através de perguntas e respostas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
